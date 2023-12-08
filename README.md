@@ -1,4 +1,4 @@
-### Hi there :smile:
+## Olá :smile:
 
 <p><b><i>Eu sou Lucas, tenho 28 anos e estou iniciando no mundo da programação, atualmente estou aprendendo a criar projetos com:</i></b></p>
 
@@ -12,7 +12,7 @@
 <br>
 <br>
 
-<p><i><b>CONNECT WITH ME:</i></p>
+## <p><i><b>CONECTE-SE COMIGO:</i></p>
   
 <div style="display: flex;">
   <a href="https://www.instagram.com/lucassilva_z/" target="_blank"><img src="https://www.unipile.com/wp-content/uploads/2022/09/Logo-Instagram-noir-1.png.webp" width="30px" /></a>
