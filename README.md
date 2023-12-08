@@ -9,12 +9,10 @@
 <p><i><b>CONNECT WITH ME:</i></p>
   
 <div style="display: flex;">
-  <a href="https://www.instagram.com/lucassilva_z/" target="_blank">
-    <img src="https://www.unipile.com/wp-content/uploads/2022/09/Logo-Instagram-noir-1.png.webp" width="30px" />
-  </a><a href="https://www.facebook.com/profile.php?id=100009952359777" target="_blank">
-    <img src="https://www.unipile.com/wp-content/uploads/2022/06/logo-facebook-noir.png.webp" alt="logo-facebook" width="30px" />
-  </a>
+  <a href="https://www.instagram.com/lucassilva_z/" target="_blank"><img src="https://www.unipile.com/wp-content/uploads/2022/09/Logo-Instagram-noir-1.png.webp" width="30px" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100009952359777" target="_blank"><img src="https://www.unipile.com/wp-content/uploads/2022/06/logo-facebook-noir.png.webp" alt="logo-facebook" width="30px" /></a>
 </div>
+
 
 
 
